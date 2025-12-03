@@ -584,9 +584,7 @@ Contributions are welcome! Please follow these guidelines:
 
 For questions, support, or business inquiries:
 
-- **Telegram**: [@Tru3B1iss](https://t.me/Tru3B1iss)
-- **X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
-- **Discord**: [@trueb1iss](https://discord.com/users/1274339638668038187)
+**Telegram**: [RRR](https://t.me/idioRusty)
 
 ### Getting Help
 
